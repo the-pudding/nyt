@@ -1,0 +1,5 @@
+README.md
+nytimesarchive.egg-info/PKG-INFO
+nytimesarchive.egg-info/SOURCES.txt
+nytimesarchive.egg-info/dependency_links.txt
+nytimesarchive.egg-info/top_level.txt

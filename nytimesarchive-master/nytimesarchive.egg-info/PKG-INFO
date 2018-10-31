@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: nytimesarchive
+Version: 0.1
+Summary: Python wrapper for the New York Times Archive API
+Home-page: https://github.com/davidcox143/nytimesarchive
+Author: David Cox
+Author-email: davidcox143@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
